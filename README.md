@@ -1,5 +1,5 @@
 # Web scraping using BeautifulSoup4 and requests
-This project consists of two parts. The first part consists scrapping of a site consisting of [quotes]("https://quotes.toscrape.com") while in the second part we scrape an [educational site]("https://www.shiksha.com/mba/colleges/mba-colleges-india").
+This project consists of two parts. The first part consists scrapping of a site consisting of [quotes](https://quotes.toscrape.com) while in the second part we scrape an [educational site](https://www.shiksha.com/mba/colleges/mba-colleges-india).
 Below is a brief description of the libraries which have been used.
 A screenshot of a part of the output obtained after scraping the first part of the web is also available in the repository.
 
